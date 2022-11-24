@@ -1,0 +1,19 @@
+PATCH http://localhost:3000/api/ministros/2
+content-type: application/json
+
+  {
+    "nombre": "Ismaelito",
+    "ci": "86100306255",
+    "genero": "M",
+    "email": "eltitico2015@gmail.com",
+    "celular": "58056163",
+    "categoria": "1",
+    "funciones": "2",
+    "distrito": "1",
+    "provincia": "4",
+    "presbiterio": "13",
+    "iglesia": "Cuatro Caminos, Cotorro",
+    "matrimonio": 1,
+    "hospedaje": 0,
+    "ci_conyugue": "98101805338"
+  }

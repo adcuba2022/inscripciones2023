@@ -1,0 +1,7 @@
+PATCH http://localhost:3000/api/inscripciones/6
+content-type: application/json
+
+  {
+    "isInscrito": 0,
+    "softdelete": 1
+  }

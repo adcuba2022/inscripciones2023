@@ -1,0 +1,9 @@
+PATCH http://localhost:3000/api/ministros/13
+content-type: application/json
+
+  {
+    "nombre": "Angel M. Toledo Fuentes",
+    "ci": "86100306229",
+    "sexo": "M",
+    "ci_conyugue": "98101800003"
+  }

@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/auth/register
+content-type: application/json
+
+{
+    "username":"Julio Cesar Sanchez2",
+    "isAdmin":false,
+    "password":"123456",
+    "isEjecutivo":true,
+    "email":"jcsdominguez@gmail.com2"
+}

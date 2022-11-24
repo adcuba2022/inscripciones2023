@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/ministros/
+content-type: application/json
+
+  {
+    "nombre": "Roberto",
+    "ci": "86100306240",
+    "sexo": "M",
+    "ci_conyugue": "98101800005"
+  }

@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "195.179.238.1",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "u635443166_inscriptions",
+            "database": "u635443166_inscriptions",
+            "username": "u635443166_sysadmin"
+        }
+    ],
+    "cSpell.words": [
+        "Ministro",
+        "nameof"
+    ]
+}

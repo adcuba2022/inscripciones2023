@@ -1,0 +1,19 @@
+POST http://localhost:3000/api/ministros/
+content-type: application/json
+
+  {
+    "nombre":"Roger Pérez Mesa",
+    "ci":"86100306238",
+    "genero":"M",
+    "email":"eltitico2015@gmail.com",
+    "celular":"58056163",
+    "categoria":"1",
+    "funciones":"2",
+    "distrito":"1",
+    "provincia":"4",
+    "presbiterio":"13",
+    "iglesia":"Cuatro Caminos, Cotorro",
+    "matrimonio":false,
+    "hospedaje":true,
+    "ci_conyugue":"98101805338"
+  }
