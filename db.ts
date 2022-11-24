@@ -17,7 +17,7 @@ config();
 export const pool = createPool({
             host: DB_HOST,
             user: DB_USER,
-            password: 'Ismael06227Ipm*',
+            password: DB_PASSWORD,
             port: <number>DB_PORT,
             database: DB_DATABASE,
             waitForConnections:true
