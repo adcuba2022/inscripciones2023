@@ -15,7 +15,7 @@ const dotenv_1 = require("dotenv");
 exports.pool = (0, promise_1.createPool)({
     host: config_1.DB_HOST,
     user: config_1.DB_USER,
-    password: 'Ismael06227Ipm*',
+    password: config_1.DB_PASSWORD,
     port: config_1.DB_PORT,
     database: config_1.DB_DATABASE,
     waitForConnections: true
